@@ -44,7 +44,7 @@ class SelfBot(discord.Client):
                 "╔⚔️[MyPvE] CLAN ⚔️\n"
                 " | ⚔️ Requirement: {1k Gold|2k silver| plat or dim bypass } (DM to check)\n"
                 " | ⬆️ Clan Level: 5\n"
-                " | 🍀 Upgrades: BP XP 50| Shop 3 lvl\n"
+                " | 🍀 Upgrades: BP XP 50| Shop 3 lvl| Crate Altar lvl 1\n"
                 " | 🚫 Low Requirements\n"
                 " ╰ 📥 DM <@1212260703424217160>   or me to apply now!"
             )
