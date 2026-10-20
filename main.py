@@ -44,7 +44,7 @@ class SelfBot(discord.Client):
                 "╭ ⚔️ [MyPvE] ⚔️ | Fast Growing & Active Community\n"
                 " | ⬆️ • Clan Level: 6\n"
                 " | 🏆 • Upgrades: Max BP | Crate Altar Lvl 1 | Max Shop\n"
-                " | 🎯 • Requirements: Gold+ | 1000+ Wins\n"
+                " | 🎯 • Requirements: Plat+ | 2000+ Wins\n"
                 " | 🔥 • Looking For Active, Skilled & Loyal Players\n"
                 " ╰ 📩 • DM <@1212260703424217160> or me to join!"
             )
